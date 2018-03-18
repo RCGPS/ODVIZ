@@ -1,0 +1,80 @@
+src,des,num
+Ayutthaya,Bangkok,270
+Ayutthaya,Pathum Thani,230
+Ayutthaya,Saraburi,227
+Bangkok,Ayutthaya,276
+Bangkok,Chachoengsao,293
+Bangkok,Chon Buri,543
+Bangkok,Nakhon Pathom,295
+Bangkok,Pathum Thani,910
+Bangkok,Prachin Buri,74
+Bangkok,Ratchaburi,81
+Bangkok,Samut Prakan,68
+Bangkok,Samut Sakhon,310
+Bangkok,Saraburi,206
+Buri Ram,Khon Kaen,63
+Buri Ram,Nakhon Ratchasima,125
+Chachoengsao,Bangkok,240
+Chachoengsao,Chon Buri,234
+Chachoengsao,Prachin Buri,102
+Chai Nat,Nakhon Sawan,54
+Chaiyaphum,Khon Kaen,61
+Chaiyaphum,Nakhon Ratchasima,62
+Chon Buri,Ayutthaya,53
+Chon Buri,Bangkok,736
+Chon Buri,Chachoengsao,272
+Chon Buri,Pathum Thani,86
+Chon Buri,Prachin Buri,142
+Chon Buri,Samut Prakan,68
+Chumphon,Prachuap Khiri Khan,83
+Chumphon,Surat Thani,118
+Dry,Chiang Mai,61
+Kamphaeng Phet,Dry,96
+Kamphaeng Phet,Nakhon Sawan,74
+Kanchanaburi,Nakhon Pathom,53
+Khon Kaen,Udon Thani,65
+Lop Buri,Saraburi,274
+Nakhon Nayok,Prachin Buri,56
+Nakhon Pathom,Bangkok,317
+Nakhon Pathom,Ratchaburi,58
+Nakhon Pathom,Samut Sakhon,53
+Nakhon Pathom,Suphan Buri,54
+Nakhon Ratchasima,Bangkok,106
+Nakhon Ratchasima,Buri Ram,234
+Nakhon Ratchasima,Chaiyaphum,91
+Nakhon Ratchasima,Khon Kaen,108
+Nakhon Ratchasima,Prachin Buri,83
+Nakhon Ratchasima,Saraburi,167
+Nakhon Sawan,Chai Nat,55
+Nakhon Sawan,Kamphaeng Phet,97
+Nakhon Si Thammarat,Surat Thani,62
+Nonthaburi,Bangkok,72
+Pathum Thani,Ayutthaya,263
+Pathum Thani,Bangkok,808
+Pathum Thani,Saraburi,164
+Phangnga,Phuket,61
+Phatthalung,Songkhla,100
+Phetchaburi,Prachuap Khiri Khan,81
+Phuket,Phangnga,65
+Prachin Buri,Bangkok,59
+Prachin Buri,Chachoengsao,87
+Prachin Buri,Chon Buri,165
+Prachin Buri,Nakhon Ratchasima,58
+Prachin Buri,Saraburi,57
+Prachuap Khiri Khan,Chumphon,142
+Prachuap Khiri Khan,Phetchaburi,107
+Ratchaburi,Bangkok,116
+Ratchaburi,Nakhon Pathom,77
+Ratchaburi,Samut Sakhon,64
+Samut Prakan,Bangkok,68
+Samut Sakhon,Bangkok,287
+Samut Sakhon,Ratchaburi,63
+Saraburi,Ayutthaya,250
+Saraburi,Bangkok,391
+Saraburi,Lop Buri,234
+Saraburi,Nakhon Nayok,102
+Saraburi,Nakhon Ratchasima,238
+Saraburi,Pathum Thani,181
+Songkhla,Phatthalung,62
+Surat Thani,Chumphon,70
+Surat Thani,Nakhon Si Thammarat,76
