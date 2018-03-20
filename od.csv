@@ -1,80 +1,212 @@
-src,des,num
-Ayutthaya,Bangkok,270
-Ayutthaya,Pathum Thani,230
-Ayutthaya,Saraburi,227
-Bangkok,Ayutthaya,276
-Bangkok,Chachoengsao,293
-Bangkok,Chon Buri,543
-Bangkok,Nakhon Pathom,295
-Bangkok,Pathum Thani,910
-Bangkok,Prachin Buri,74
-Bangkok,Ratchaburi,81
-Bangkok,Samut Prakan,68
-Bangkok,Samut Sakhon,310
-Bangkok,Saraburi,206
-Buri Ram,Khon Kaen,63
-Buri Ram,Nakhon Ratchasima,125
-Chachoengsao,Bangkok,240
-Chachoengsao,Chon Buri,234
-Chachoengsao,Prachin Buri,102
-Chai Nat,Nakhon Sawan,54
-Chaiyaphum,Khon Kaen,61
-Chaiyaphum,Nakhon Ratchasima,62
-Chon Buri,Ayutthaya,53
-Chon Buri,Bangkok,736
-Chon Buri,Chachoengsao,272
-Chon Buri,Pathum Thani,86
-Chon Buri,Prachin Buri,142
-Chon Buri,Samut Prakan,68
-Chumphon,Prachuap Khiri Khan,83
-Chumphon,Surat Thani,118
-Dry,Chiang Mai,61
-Kamphaeng Phet,Dry,96
-Kamphaeng Phet,Nakhon Sawan,74
-Kanchanaburi,Nakhon Pathom,53
-Khon Kaen,Udon Thani,65
-Lop Buri,Saraburi,274
-Nakhon Nayok,Prachin Buri,56
-Nakhon Pathom,Bangkok,317
-Nakhon Pathom,Ratchaburi,58
-Nakhon Pathom,Samut Sakhon,53
-Nakhon Pathom,Suphan Buri,54
-Nakhon Ratchasima,Bangkok,106
-Nakhon Ratchasima,Buri Ram,234
-Nakhon Ratchasima,Chaiyaphum,91
-Nakhon Ratchasima,Khon Kaen,108
-Nakhon Ratchasima,Prachin Buri,83
-Nakhon Ratchasima,Saraburi,167
-Nakhon Sawan,Chai Nat,55
-Nakhon Sawan,Kamphaeng Phet,97
-Nakhon Si Thammarat,Surat Thani,62
-Nonthaburi,Bangkok,72
-Pathum Thani,Ayutthaya,263
-Pathum Thani,Bangkok,808
-Pathum Thani,Saraburi,164
-Phangnga,Phuket,61
-Phatthalung,Songkhla,100
-Phetchaburi,Prachuap Khiri Khan,81
-Phuket,Phangnga,65
-Prachin Buri,Bangkok,59
-Prachin Buri,Chachoengsao,87
-Prachin Buri,Chon Buri,165
-Prachin Buri,Nakhon Ratchasima,58
-Prachin Buri,Saraburi,57
-Prachuap Khiri Khan,Chumphon,142
-Prachuap Khiri Khan,Phetchaburi,107
-Ratchaburi,Bangkok,116
-Ratchaburi,Nakhon Pathom,77
-Ratchaburi,Samut Sakhon,64
-Samut Prakan,Bangkok,68
-Samut Sakhon,Bangkok,287
-Samut Sakhon,Ratchaburi,63
-Saraburi,Ayutthaya,250
-Saraburi,Bangkok,391
-Saraburi,Lop Buri,234
-Saraburi,Nakhon Nayok,102
-Saraburi,Nakhon Ratchasima,238
-Saraburi,Pathum Thani,181
-Songkhla,Phatthalung,62
-Surat Thani,Chumphon,70
-Surat Thani,Nakhon Si Thammarat,76
+month,src,des,num
+2017-07,Ayutthaya,Bangkok,1948
+2017-07,Ayutthaya,Pathum Thani,2245
+2017-07,Ayutthaya,Saraburi,2744
+2017-07,Bangkok,Ayutthaya,2026
+2017-07,Bangkok,Chachoengsao,2061
+2017-07,Bangkok,Chon Buri,6974
+2017-07,Bangkok,Lop Buri,479
+2017-07,Bangkok,Nakhon Pathom,2213
+2017-07,Bangkok,Nakhon Ratchasima,559
+2017-07,Bangkok,Nonthaburi,474
+2017-07,Bangkok,Pathum Thani,6219
+2017-07,Bangkok,Prachin Buri,656
+2017-07,Bangkok,Ratchaburi,1190
+2017-07,Bangkok,Samut Prakan,967
+2017-07,Bangkok,Samut Sakhon,2457
+2017-07,Bangkok,Saraburi,2373
+2017-07,Bangkok,Suphan Buri,773
+2017-07,Buri Ram,Nakhon Ratchasima,1317
+2017-07,Buri Ram,Surin,488
+2017-07,Chachoengsao,Bangkok,2022
+2017-07,Chachoengsao,Chon Buri,2011
+2017-07,Chachoengsao,Prachin Buri,772
+2017-07,Chai Nat,Nakhon Sawan,511
+2017-07,Chaiyaphum,Khon Kaen,518
+2017-07,Chaiyaphum,Nakhon Ratchasima,511
+2017-07,Chiang Mai,Lampang,488
+2017-07,Chiang Mai,Tak,472
+2017-07,Chon Buri,Bangkok,6880
+2017-07,Chon Buri,Chachoengsao,2153
+2017-07,Chon Buri,Pathum Thani,681
+2017-07,Chon Buri,Prachin Buri,1599
+2017-07,Chon Buri,Samut Prakan,564
+2017-07,Chon Buri,Saraburi,546
+2017-07,Chumphon,Prachuap Khiri Khan,947
+2017-07,Chumphon,Surat Thani,844
+2017-07,Kamphaeng Phet,Tak,522
+2017-07,Khon Kaen,Chaiyaphum,522
+2017-07,Khon Kaen,Nakhon Ratchasima,675
+2017-07,Khon Kaen,Udon Thani,557
+2017-07,Lampang,Chiang Mai,475
+2017-07,Lop Buri,Bangkok,535
+2017-07,Lop Buri,Saraburi,2224
+2017-07,Nakhon Nayok,Prachin Buri,467
+2017-07,Nakhon Nayok,Saraburi,481
+2017-07,Nakhon Pathom,Bangkok,2260
+2017-07,Nakhon Pathom,Ratchaburi,666
+2017-07,Nakhon Pathom,Samut Sakhon,576
+2017-07,Nakhon Pathom,Suphan Buri,577
+2017-07,Nakhon Ratchasima,Bangkok,548
+2017-07,Nakhon Ratchasima,Buri Ram,1461
+2017-07,Nakhon Ratchasima,Chaiyaphum,487
+2017-07,Nakhon Ratchasima,Khon Kaen,738
+2017-07,Nakhon Ratchasima,Prachin Buri,605
+2017-07,Nakhon Ratchasima,Saraburi,1582
+2017-07,Nakhon Sawan,Chai Nat,501
+2017-07,Nakhon Sawan,Kamphaeng Phet,503
+2017-07,Nakhon Si Thammarat,Surat Thani,879
+2017-07,Nonthaburi,Bangkok,469
+2017-07,Pathum Thani,Ayutthaya,2357
+2017-07,Pathum Thani,Bangkok,5892
+2017-07,Pathum Thani,Chon Buri,640
+2017-07,Pathum Thani,Saraburi,1833
+2017-07,Phangnga,Phuket,672
+2017-07,Phatthalung,Songkhla,781
+2017-07,Phetchaburi,Prachuap Khiri Khan,909
+2017-07,Phetchaburi,Ratchaburi,459
+2017-07,Phuket,Phangnga,717
+2017-07,Prachin Buri,Bangkok,687
+2017-07,Prachin Buri,Chachoengsao,761
+2017-07,Prachin Buri,Chon Buri,1705
+2017-07,Prachin Buri,Nakhon Ratchasima,623
+2017-07,Prachin Buri,Saraburi,460
+2017-07,Prachuap Khiri Khan,Chumphon,1025
+2017-07,Prachuap Khiri Khan,Phetchaburi,870
+2017-07,Prachuap Khiri Khan,Ratchaburi,466
+2017-07,Ratchaburi,Bangkok,1131
+2017-07,Ratchaburi,Nakhon Pathom,715
+2017-07,Ratchaburi,Phetchaburi,531
+2017-07,Ratchaburi,Prachuap Khiri Khan,497
+2017-07,Ratchaburi,Samut Sakhon,595
+2017-07,Sa Kaeo,Prachin Buri,526
+2017-07,Samut Prakan,Bangkok,1064
+2017-07,Samut Prakan,Chon Buri,578
+2017-07,Samut Sakhon,Bangkok,2339
+2017-07,Samut Sakhon,Nakhon Pathom,627
+2017-07,Samut Sakhon,Ratchaburi,707
+2017-07,Saraburi,Ayutthaya,2724
+2017-07,Saraburi,Bangkok,2449
+2017-07,Saraburi,Chon Buri,524
+2017-07,Saraburi,Lop Buri,2338
+2017-07,Saraburi,Nakhon Nayok,512
+2017-07,Saraburi,Nakhon Ratchasima,1983
+2017-07,Saraburi,Pathum Thani,1674
+2017-07,Songkhla,Phatthalung,818
+2017-07,Suphan Buri,Bangkok,749
+2017-07,Suphan Buri,Nakhon Pathom,511
+2017-07,Surat Thani,Chumphon,884
+2017-07,Surat Thani,Nakhon Si Thammarat,831
+2017-07,Surin,Buri Ram,477
+2017-07,Tak,Chiang Mai,531
+2017-07,Tak,Kamphaeng Phet,489
+2017-07,Udon Thani,Khon Kaen,512
+2017-08,Ayutthaya,Ang Thong,489
+2017-08,Ayutthaya,Bangkok,2047
+2017-08,Ayutthaya,Lop Buri,469
+2017-08,Ayutthaya,Pathum Thani,2243
+2017-08,Ayutthaya,Saraburi,2955
+2017-08,Bangkok,Ayutthaya,2339
+2017-08,Bangkok,Chachoengsao,2065
+2017-08,Bangkok,Chon Buri,7618
+2017-08,Bangkok,Lop Buri,517
+2017-08,Bangkok,Nakhon Pathom,2232
+2017-08,Bangkok,Nakhon Ratchasima,522
+2017-08,Bangkok,Nonthaburi,496
+2017-08,Bangkok,Pathum Thani,6465
+2017-08,Bangkok,Prachin Buri,755
+2017-08,Bangkok,Ratchaburi,1356
+2017-08,Bangkok,Samut Prakan,921
+2017-08,Bangkok,Samut Sakhon,2629
+2017-08,Bangkok,Saraburi,2611
+2017-08,Bangkok,Suphan Buri,743
+2017-08,Buri Ram,Khon Kaen,452
+2017-08,Buri Ram,Nakhon Ratchasima,1475
+2017-08,Buri Ram,Surin,454
+2017-08,Chachoengsao,Bangkok,2028
+2017-08,Chachoengsao,Chon Buri,2205
+2017-08,Chachoengsao,Prachin Buri,910
+2017-08,Chai Nat,Nakhon Sawan,567
+2017-08,Chaiyaphum,Khon Kaen,492
+2017-08,Chaiyaphum,Nakhon Ratchasima,457
+2017-08,Chanthaburi,Chon Buri,465
+2017-08,Chiang Mai,Lampang,503
+2017-08,Chiang Mai,Tak,533
+2017-08,Chon Buri,Bangkok,7611
+2017-08,Chon Buri,Chachoengsao,2220
+2017-08,Chon Buri,Pathum Thani,705
+2017-08,Chon Buri,Prachin Buri,1665
+2017-08,Chon Buri,Samut Prakan,630
+2017-08,Chon Buri,Samut Sakhon,459
+2017-08,Chon Buri,Saraburi,520
+2017-08,Chumphon,Prachuap Khiri Khan,940
+2017-08,Chumphon,Surat Thani,896
+2017-08,Kamphaeng Phet,Nakhon Sawan,453
+2017-08,Kamphaeng Phet,Tak,523
+2017-08,Khon Kaen,Chaiyaphum,529
+2017-08,Khon Kaen,Nakhon Ratchasima,728
+2017-08,Khon Kaen,Udon Thani,614
+2017-08,Lampang,Chiang Mai,509
+2017-08,Lop Buri,Bangkok,561
+2017-08,Lop Buri,Saraburi,2151
+2017-08,Nakhon Nayok,Prachin Buri,505
+2017-08,Nakhon Nayok,Saraburi,540
+2017-08,Nakhon Pathom,Bangkok,2306
+2017-08,Nakhon Pathom,Ratchaburi,676
+2017-08,Nakhon Pathom,Samut Sakhon,639
+2017-08,Nakhon Pathom,Suphan Buri,533
+2017-08,Nakhon Ratchasima,Bangkok,524
+2017-08,Nakhon Ratchasima,Buri Ram,1522
+2017-08,Nakhon Ratchasima,Chaiyaphum,466
+2017-08,Nakhon Ratchasima,Khon Kaen,716
+2017-08,Nakhon Ratchasima,Prachin Buri,634
+2017-08,Nakhon Ratchasima,Saraburi,1781
+2017-08,Nakhon Sawan,Chai Nat,507
+2017-08,Nakhon Sawan,Kamphaeng Phet,533
+2017-08,Nakhon Si Thammarat,Surat Thani,918
+2017-08,Nong Khai,Udon Thani,508
+2017-08,Nonthaburi,Bangkok,458
+2017-08,Pathum Thani,Ayutthaya,2431
+2017-08,Pathum Thani,Bangkok,6171
+2017-08,Pathum Thani,Chon Buri,734
+2017-08,Pathum Thani,Saraburi,1858
+2017-08,Phangnga,Phuket,724
+2017-08,Phatthalung,Songkhla,985
+2017-08,Phetchaburi,Prachuap Khiri Khan,1039
+2017-08,Phetchaburi,Ratchaburi,490
+2017-08,Phuket,Phangnga,742
+2017-08,Prachin Buri,Bangkok,789
+2017-08,Prachin Buri,Chachoengsao,936
+2017-08,Prachin Buri,Chon Buri,1717
+2017-08,Prachin Buri,Nakhon Nayok,506
+2017-08,Prachin Buri,Nakhon Ratchasima,673
+2017-08,Prachin Buri,Saraburi,476
+2017-08,Prachuap Khiri Khan,Chumphon,1003
+2017-08,Prachuap Khiri Khan,Phetchaburi,973
+2017-08,Ratchaburi,Bangkok,1245
+2017-08,Ratchaburi,Nakhon Pathom,710
+2017-08,Ratchaburi,Phetchaburi,553
+2017-08,Ratchaburi,Prachuap Khiri Khan,460
+2017-08,Ratchaburi,Samut Sakhon,670
+2017-08,Sa Kaeo,Prachin Buri,524
+2017-08,Samut Prakan,Bangkok,1002
+2017-08,Samut Prakan,Chon Buri,594
+2017-08,Samut Sakhon,Bangkok,2395
+2017-08,Samut Sakhon,Nakhon Pathom,659
+2017-08,Samut Sakhon,Ratchaburi,809
+2017-08,Saraburi,Ayutthaya,2893
+2017-08,Saraburi,Bangkok,2577
+2017-08,Saraburi,Chon Buri,510
+2017-08,Saraburi,Lop Buri,2342
+2017-08,Saraburi,Nakhon Nayok,568
+2017-08,Saraburi,Nakhon Ratchasima,1961
+2017-08,Saraburi,Pathum Thani,1677
+2017-08,Songkhla,Phatthalung,937
+2017-08,Suphan Buri,Bangkok,746
+2017-08,Suphan Buri,Nakhon Pathom,491
+2017-08,Surat Thani,Chumphon,928
+2017-08,Surat Thani,Nakhon Si Thammarat,872
+2017-08,Surin,Buri Ram,456
+2017-08,Tak,Chiang Mai,548
+2017-08,Tak,Kamphaeng Phet,530
+2017-08,Udon Thani,Khon Kaen,603
